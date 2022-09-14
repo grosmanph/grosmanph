@@ -1,8 +1,18 @@
 ## Hey there, I'm Pedro Grosman :relaxed:.
 
-Due to my solid academic background and professional experience, I'm mostly into any R&D subject.
+I'm a experienced data scientist with 2+ years of experience in computational modeling, data analysis, and machine learning. Currently, working as a data science/ data quality engineer, my role is to create and maintain robust data quality assurance processes, and design innovative data-driven products that empower the competitiveness of businesses in the home improvement retailer. 
 
-Currently, I'm working on developing data-driven solutions for any kind of business interested in using data to empower decision-making. As a data scientist, my main goal is to develop high-performance data-fed applications to optimize time-consuming tasks, make decision-making scalable, maximize profits, avoid mistakes, and much more.
+Work experience with data science engineering, data engineering, and data quality engineering:
+
+- Work experience creating market share dashboards to allow clients gauge opportunities to improve their competitiveness.
+- Work experience developing new data-driven products for retailers to boost their sales and keep track of their performance in the market.
+- Experience developing and deploying machine learning models for demand forecasting and pricing. 
+- Work experience in implementing data QA practices on top of data pipelines and creating metrics to keep track of the health of end-of-pipeline data.
+- Work experience in computational and statistical modeling. 
+
+Main work tools:
+Python/ PySpark | Databricks | SkLearn/ XGBoost/ PyTorch | SQL | Tableau | Streamlit/ Flask |
+Docker | AWS (Sage Maker, RedShift, EC2, S3) | Git | Linux
 
 ## :mailbox: You can reach me on
 

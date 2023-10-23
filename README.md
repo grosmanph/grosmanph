@@ -1,6 +1,6 @@
 ## Hey there, I'm Pedro Grosman :relaxed:.
 
-I'm a experienced data scientist with 2+ years of experience in computational modeling, data analysis, and machine learning. Currently, working as a data science/ data quality engineer, my role is to create and maintain robust data quality assurance processes, and design innovative data-driven products that empower the competitiveness of businesses in the home improvement retailer. 
+I'm a experienced data scientist with 4+ years of experience in computational modeling, data analysis, and machine learning. Currently, working as a data science/ data quality engineer, my role is to create and maintain robust data quality assurance processes, and design innovative data-driven products that empower the competitiveness of businesses in the home improvement retailer. 
 
 Work experience with data science engineering, data engineering, and data quality engineering:
 
